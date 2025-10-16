@@ -48,9 +48,9 @@
 # История коммитов
 | Commit | Description |
 | --- | --- |
-|  | L-03: Circle and square added |
-|  | L-03: Docs added |
-|  | created files |
+| 8ba9aeb | L-03: Circle and square added |
+| d078c8d | L-03: Docs added |
+| 0233512 | created files |
 
 
 
